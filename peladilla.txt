@@ -1,2 +1,4 @@
 Esto es una peladilla
-Esto es una modificacion de la peladilla desde github
+Esto es una modificacion de la peladilla desde GitHub
+Esto es una peladilla loca
+
